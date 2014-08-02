@@ -1,0 +1,11 @@
+{
+
+     "name" : "upload Demo",
+     "version" : "1.0.0",
+     "author" : "vic shang",
+     "devDependencies" : {
+		"formidable":"~1.0.2"
+
+     }
+
+}
